@@ -11,7 +11,7 @@ The technical paper is published under [Hbrp Publication](https://hbrppublicatio
 ## Resources used:
 
 1) [Tinkercad](https://www.tinkercad.com/) - for project simulation since it was not possible to implement using hardware due to Covid-19.
-2) Circuito.io - for creating circuit diagram.
+2) [Circuito.io](https://www.circuito.io) - for creating circuit diagram.
 3) [Online diagram maker](https://app.diagrams.net/) - for designing the prototype and block diagram.
 
 ## Contributors
